@@ -1,6 +1,6 @@
 package project1;
 
-public class cocomanmo_2 {
+public class Cocomanmo_2 {
 	  public long solution(int a, int b) {
 	        long answer = 0;
 	        
